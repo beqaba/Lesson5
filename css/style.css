@@ -50,6 +50,7 @@ a{
 	font-size: 14px;
 	width: 392px;
 	margin-top: auto;
+	text-transform: uppercase;
 }
 .text1{
 	padding-top: 20px;
@@ -57,6 +58,7 @@ a{
 	font-size: 14px;
 	width: 290px;
 	margin-top: auto;
+	text-transform: uppercase;
 }
 .cot{
 	vertical-align: middle;
@@ -77,8 +79,12 @@ a{
 
 	width: 566px;
 	margin: 20px;
+	text-transform: uppercase;
 }
 .pt1{
-	width: 442px;
-	margin: 20px;
+	margin-bottom: 10px;
+	width: 482px;
+	margin: 14px;
+	font-size: 14px;
+	text-transform: uppercase;
 }
